@@ -14,6 +14,9 @@ limitado de bombas, as quais ele deve utilizar para tentar bombardear os navios
 escondidos. O jogo termina quando o jogador bombardeia todos os barcos ou a sua
 quantidade de bombas acaba.
 
+![image](https://user-images.githubusercontent.com/72041841/178001856-ea05bbc3-1729-4994-8861-4bb0c4fa7b5c.png)
+
+
 # Solução Proposta (Desenvolvimento)
 As soluções encontradas para o desdobramento do trabalho proposto foram:
 - Desenvolvimento do código na IDE Eclipse, usufruindo da linguagem Java de
